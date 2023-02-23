@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .achievement {
+    margin-bottom: 30px;
+  }
+  
+  .achievement h2 {
+    margin: 0;
+  }
+  
+  .achievement p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  
